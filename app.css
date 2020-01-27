@@ -1,0 +1,7 @@
+   h1{ color:rgb(0, 98, 128); font-size: 56px;}
+            img{border-color: ghostwhite; border-width: 3px; border-style: solid;}
+            h2{ color:darkviolet: font-size: 40px;}
+            article{ border: 3px solid rgb(112, 170, 218); border-radius: 5px;
+            padding:10px; margin:5px;background-color: rgba(245, 233, 179, 0.938);}
+            header{ background-color: gold;}
+            li{list-style-type: none}
